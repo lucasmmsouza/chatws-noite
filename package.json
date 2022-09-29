@@ -8,7 +8,7 @@
     "dev": "nodemon"
   },
   "keywords": [],
-  "author": "Manoel Campos da Silva Filho <manoelcampos@gmail.com>",
+  "author": "Lucas Miguel Martins de Souza lucasmiguelmsouza@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.1",
